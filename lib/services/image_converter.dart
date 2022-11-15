@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:image/image.dart' as imglib;
 import 'package:camera/camera.dart';
 
