@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203491870934",
+    "project_id": "citrav2",
+    "storage_bucket": "citrav2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203491870934:android:b309a12aa8fcb6f9726177",
+        "android_client_info": {
+          "package_name": "com.example.citra_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203491870934-v5uaju8rc2s8fnnoar2d1u3v4mjqfmjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlG31xNp0iMJHyZaxF4cARNiCWj_DqQOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203491870934-v5uaju8rc2s8fnnoar2d1u3v4mjqfmjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
